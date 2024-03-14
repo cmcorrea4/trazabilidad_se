@@ -5,7 +5,7 @@ st.title(" Sistema de Trazabilidad")
 
 st.header("En este espacio podrás obtener información de tu ciudad.")
 
-image = Image.open('Sistemaiot.png')
+image = Image.open('disco.jpg')
 
 option = st.selectbox(
     'Seleccione la orden de trabajo',

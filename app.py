@@ -3,7 +3,7 @@ from PIL import Image
 
 st.title(" Sistema de Trazabilidad")
 
-st.header("En este espacio podrás obtener información de tu ciudad.")
+st.header("Una vez inicies un proceso diligencia los datos.")
 
 image = Image.open('disco.jpg')
 
